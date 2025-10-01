@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --color-lego-yellow: #fbbf24;
+  --color-lego-black: #111827;
+  --color-lego-gray: #9ca3af;
+  --color-lego-darkgray: #4b5563;
+  --color-lego-red: #ef4444;
+}
+
+:root {
+  --app-max-w: 1280px;
+}
